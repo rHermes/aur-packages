@@ -1,0 +1,13 @@
+pkgbase = enchive
+	pkgdesc = Utility for encrypting/decrypting single files with key pair
+	pkgver = 3.4
+	pkgrel = 1
+	url = https://github.com/skeeto/enchive
+	arch = x86_64
+	arch = i686
+	license = custom:UNLICENSE
+	source = enchive-3.4.tar.gz::https://github.com/skeeto/enchive/archive/3.4.tar.gz
+	sha512sums = a8149a95723159b2ef6b929be91fc8d6b454886706eb701ba9fd1dfcfea59e1d22aea734517c08fc252681a914a1a028589789683540c13aacfa979c13313f17
+
+pkgname = enchive
+
